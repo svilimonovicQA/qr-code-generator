@@ -11,7 +11,7 @@ This project is a simple QR Code Generator built using HTML, CSS, and JavaScript
 
 ### Prerequisites
 
-- A web browser
+- Web browser
 - Internet connection to load jQuery and jQuery.qrcode libraries
 
 ### Installation
