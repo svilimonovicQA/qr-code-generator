@@ -46,4 +46,4 @@ This project is licensed under the MIT License.
 
 ### Author
 
-Stefan Vilimonovic
+[Stefan Vilimonovic](https://github.com/stefanvil)
