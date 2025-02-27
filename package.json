@@ -1,0 +1,20 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "QR Code Generator with Cypress Tests",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server . -p 8080",
+    "test": "start-server-and-test start http://localhost:8080 cypress:run",
+    "cypress:run": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.1.0",
+    "http-server": "^14.1.1",
+    "start-server-and-test": "^2.0.10"
+  }
+}
